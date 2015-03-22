@@ -1,5 +1,7 @@
 twitter-sentiment-analyzer
 ==========================
+[![Build Status](https://travis-ci.org/bossiernesto/twitter-sentiment-analyzer.svg)](https://travis-ci.org/bossiernesto/twitter-sentiment-analyzer)
+
 <p> Take a look at simpleDemo.py for a demo </p>
 
 Update

@@ -1,0 +1,12 @@
+language: python
+python:
+  - "2.7"
+# command to install dependencies
+install:
+  - pip install .
+  - pip install -r requirements.txt
+script:
+  - coverage run --source=python run_tests.py
+after_success:
+  #run coverage for tests
+  coveralls

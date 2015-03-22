@@ -39,3 +39,6 @@ nosetests.xml
 
 # Picled
 *.pickle
+
+config.json
+.idea
